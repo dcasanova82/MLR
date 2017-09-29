@@ -4479,3 +4479,4 @@ print (np.equal(np_y_labels, pred1))
 print (accuracy_score(y_labels, pred1))
 
 
+prueba = np.array(fea  )
